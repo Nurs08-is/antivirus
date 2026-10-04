@@ -3,7 +3,7 @@
 Сигнатуралық және эвристикалық талдауды көрсететін шағын Python бағдарламасы.
 
 ## Іске қосу
-    python scanner.py test_files
+    py antivirus_app.py
 
 ## Файлдар
 - scanner.py — негізгі код
