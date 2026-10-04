@@ -1,0 +1,1 @@
+run powershell -enc AAAA and keylogger, autorun
